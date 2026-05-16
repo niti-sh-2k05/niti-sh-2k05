@@ -6,9 +6,9 @@
 
 ## 👨‍💻 About Me
 
-- 🌱 Learning MERN Stack 
+- 🌱 Learning MERN Stack
 - 💻 Solving Data Structures & Algorithms
-- 🚀 Interested in Software building
+- 🚀 Interested in Software Development
 - 📚 Building projects and improving problem-solving skills
 
 ---
@@ -31,16 +31,22 @@
 
 ## 📊 GitHub Stats
 
-![Niti's GitHub stats](https://github-readme-stats.vercel.app/api?username=niti-sh-2k05&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=niti-sh-2k05&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=niti-sh-2k05&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
 ## 💻 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niti-sh-2k05&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niti-sh-2k05&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=niti-sh-2k05&theme=tokyo-night" />
+</p>
